@@ -1,6 +1,6 @@
 {   "name": "mongoose-createdmodified"
   , "description": "Mongoose plugin adding created and modified fields to a schema"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "homepage": "https://github.com/panta/mongoose-createdmodified"
   , "author": "Marco Pantaleoni <marco.pantaleoni@gmail.com>"
   , "dependencies": {
