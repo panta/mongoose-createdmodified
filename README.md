@@ -50,5 +50,5 @@ See the LICENSE file for details.
 [mongoose]: http://mongoosejs.com
 [CoffeeScript]: http://jashkenas.github.com/coffee-script/
 [Node.js]: http://nodejs.org/
-[Mocha]: http://visionmedia.github.com/mocha/
+[Mocha]: http://mochajs.org/
 [repository]: http://github.com/panta/mongoose-createdmodified
